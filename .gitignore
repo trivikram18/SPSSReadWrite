@@ -8,7 +8,6 @@ ExportFromPandas.csv
 .spyproject/encoding.ini
 .spyproject/codestyle.ini
 .ipynb_checkpoints/SPSS_IO-checkpoint.ipynb
-TestSAV.sav
 Test.csv
 Table1.csv
 SPSS_IO.py
